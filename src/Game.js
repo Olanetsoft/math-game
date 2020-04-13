@@ -6,11 +6,12 @@ import utils from './utils';
 import PlayAgain from './PlayAgain';
 import StarsDisplay from './StarsDisplay';
 import PlayNumber from './PlayNumber';
+import './App.css';
 
 
 const Game = (props) => {
-    const [stars, setStars] = useState(utils.random(1, 9));
-  const [availableNums, setAvailableNums] = useState(utils.range(1, 9));
+    const [stars, setStars] = useState(utils.random(1, 12));
+  const [availableNums, setAvailableNums] = useState(utils.range(1, 12));
   const [candidateNums, setCandidateNums] = useState([]);
   const [secondsLeft, setSecondsLeft] = useState(10);
 
@@ -54,7 +55,7 @@ const Game = (props) => {
       const newAvailableNums = availableNums.filter(
         n => !newCandidateNums.includes(n)
       );
-      setStars(utils.randomSumIn(newAvailableNums, 9));
+      setStars(utils.randomSumIn(newAvailableNums, 12));
       setAvailableNums(newAvailableNums);
       setCandidateNums([]);
     }
@@ -74,7 +75,7 @@ const Game = (props) => {
             )}
           </div>
           <div className="right">
-            {utils.range(1, 9).map(number => (
+            {utils.range(1, 12).map(number => (
               <PlayNumber
                 key={number}
                 status={numberStatus(number)}
