@@ -63,12 +63,13 @@ const Game = (props) => {
 
     return (
         <div className="game">
-             <div className="help">Total Point: ϩ⊘⊘ </div>
+             
              
           
             <div className="help">
-            𝙋𝙞𝙘𝙠 1 𝙤𝙧 𝙢𝙤𝙧𝙚 𝙣𝙪𝙢𝙗𝙚𝙧𝙨 𝙩𝙝𝙖𝙩 𝙨𝙪𝙢 𝙩𝙤 𝙩𝙝𝙚 𝙣𝙪𝙢𝙗𝙚𝙧 𝙤𝙛 𝙨𝙩𝙖𝙧𝙨
+            🅿🅸🅲🅺 1 🅾🆁 🅼🅾🆁🅴 🅽🆄🅼🅱🅴🆁🆂 🆃🅷🅰🆃 🆂🆄🅼 🆃🅾 🆃🅷🅴 🅽🆄🅼🅱🅴🆁 🅾🅵 🆂🆃🅰🆁🆂
         </div>
+        <div className="help">Total Point: 200 </div>
             <div style= {{backgroundColor: "rgb(88, 214, 141)",  display: "flex"}}>
                 <div className="left">
                     {gameStatus !== 'active' ? (
