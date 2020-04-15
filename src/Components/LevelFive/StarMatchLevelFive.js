@@ -1,6 +1,6 @@
 import React from 'react';
 import {useState} from 'react';
-import Game from '../LevelTwo/GameLevelTwo';
+import Game from '../LevelFive/GameLevelFive';
 import '../../NextLevel.css';
 
 

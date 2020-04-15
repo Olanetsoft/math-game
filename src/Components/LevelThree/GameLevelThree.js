@@ -69,7 +69,7 @@ const Game = (props) => {
             <div style= {{backgroundColor: "rgb(93, 173, 226)",  display: "flex"}}>
                 <div className="left">
                     {gameStatus !== 'active' ? (
-                        <PlayAgain onClick={props.startNewGame} gameStatus={gameStatus} game={props.second}/>
+                        <PlayAgain onClick={props.startNewGame} gameStatus={gameStatus}/>
                     ) : (
                             <StarsDisplay count={stars} />
                         )}

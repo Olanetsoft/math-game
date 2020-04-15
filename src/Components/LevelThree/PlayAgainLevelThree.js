@@ -11,7 +11,7 @@ const PlayAgain = (props) => {
           {props.gameStatus === 'lost' ? 'Oops! Game Over' : 'Nice! Play Next Level'}
         </div>
         <button onClick={props.onClick}>Play Again</button>
-        <button ><a href="/LevelThree">Next Level</a></button>
+        <button ><a href="/LevelFour">Next Level</a></button>
         
       </div>
     );
