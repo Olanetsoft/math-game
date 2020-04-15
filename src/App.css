@@ -76,7 +76,7 @@
 
 .number {
   background-color: #eee;
-  border: thin solid #ddd;
+  border: thick solid #ddd;
   width: 45px;
   height: 45px;
   margin: 10px;
@@ -85,7 +85,7 @@
 
 .number:focus, .number:active {
   outline: none;
-  border: thin solid #ddd;
+  border: thick solid #ddd;
 }
 
 .timer {

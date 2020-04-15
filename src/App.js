@@ -1,8 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import { Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
-// import App from './App';
+
 import StarMatch from './StarMatch';
 
 
@@ -10,7 +9,14 @@ import StarMatch from './StarMatch';
 const App = () => {
     return (
         <div>
-             <StarMatch />
+            <Router>
+                <Switch>
+                    <Route exact path='/' component={StarMatch} />
+                    {/* <Route path='/shop' component={ShopPage} /> */}
+                </Switch>
+            </Router>
+
+            {/* <StarMatch /> */}
         </div>
     );
 };
