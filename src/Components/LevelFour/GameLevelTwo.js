@@ -66,10 +66,10 @@ const Game = (props) => {
             <div className="help">
                 Pick 1 or more numbers that sum to the number of stars
         </div>
-            <div style= {{backgroundColor: "rgb(189, 189, 189)",  display: "flex"}}>
+            <div style= {{backgroundColor: "rgb(125, 206, 160)",  display: "flex"}}>
                 <div className="left">
                     {gameStatus !== 'active' ? (
-                        <PlayAgain onClick={props.startNewGame} gameStatus={gameStatus} game={props.second}/>
+                        <PlayAgain onClick={props.startNewGame} gameStatus={gameStatus}/>
                     ) : (
                             <StarsDisplay count={stars} />
                         )}

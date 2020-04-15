@@ -4,6 +4,14 @@ import './App.css';
 
 import StarMatch from './Components/LevelOne/StarMatch';
 import GameLevelTwo from './Components/LevelTwo/StarMatchLevelTwo';
+import GameLevelThree from './Components/LevelThree/StarMatchLevelThree';
+import GameLevelFour from './Components/LevelFour/StarMatchLevelFour';
+import GameLevelFive from './Components/LevelFive/StarMatchLevelFive';
+import GameLevelSix from './Components/LevelTwo/StarMatchLevelTwo';
+import GameLevelSeven from './Components/LevelTwo/StarMatchLevelTwo';
+import GameLevelEight from './Components/LevelTwo/StarMatchLevelTwo';
+import GameLevelNine from './Components/LevelTwo/StarMatchLevelTwo';
+import GameLevelTen from './Components/LevelTwo/StarMatchLevelTwo';
 
 
 
@@ -13,7 +21,16 @@ const App = () => {
             <Router>
                 <Switch>
                     <Route exact path='/' component={StarMatch} />
-                    <Route path='/nextLevel' component={GameLevelTwo} />
+                    <Route path='/LevelTwo' component={GameLevelTwo} />
+                    <Route path='/LevelThree' component={GameLevelThree} />
+                    <Route path='/LevelFour' component={GameLevelTwo} />
+                    <Route path='/LevelFour' component={GameLevelTwo} />
+                    <Route path='/LevelFive' component={GameLevelTwo} />
+                    <Route path='/LevelSix' component={GameLevelTwo} />
+                    <Route path='/LevelSeven' component={GameLevelTwo} />
+                    <Route path='/nextEight' component={GameLevelTwo} />
+                    <Route path='/nextNine' component={GameLevelTwo} />
+                    <Route path='/nextTen' component={GameLevelTwo} />
                 </Switch>
             </Router>
         </div>

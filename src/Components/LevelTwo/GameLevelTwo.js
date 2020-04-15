@@ -63,7 +63,7 @@ const Game = (props) => {
     return (
         <div className="game">
             <div className="help">
-                Pick 1 or more numbers that sum to the number of stars
+            🅿🅸🅲🅺 1 🅾🆁 🅼🅾🆁🅴 🅽🆄🅼🅱🅴🆁🆂 🆃🅷🅰🆃 🆂🆄🅼 🆃🅾 🆃🅷🅴 🅽🆄🅼🅱🅴🆁 🅾🅵 🆂🆃🅰🆁🆂
         </div>
             <div style= {{backgroundColor: "rgb(174, 214, 241)",  display: "flex"}}>
                 <div className="left">

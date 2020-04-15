@@ -3,9 +3,9 @@ import { useState, useEffect } from 'react';
 
 
 import utils from '../../utils';
-import PlayAgain from '../LevelTwo/PlayAgainLevelTwo';
-import StarsDisplay from '../LevelTwo/StarsDisplayLevelTwo';
-import PlayNumber from '../LevelTwo/PlayNumberLevelTwo';
+import PlayAgain from '../LevelThree/PlayAgainLevelThree';
+import StarsDisplay from '../LevelThree/StarsDisplayLevelThree';
+import PlayNumber from '../LevelThree/PlayNumberLevelThree';
 import '../../NextLevel.css';
 
 
@@ -64,9 +64,9 @@ const Game = (props) => {
     return (
         <div className="game">
             <div className="help">
-                Pick 1 or more numbers that sum to the number of stars
+            𝕻𝖎𝖈𝖐 1 𝖔𝖗 𝖒𝖔𝖗𝖊 𝖓𝖚𝖒𝖇𝖊𝖗𝖘 𝖙𝖍𝖆𝖙 𝖘𝖚𝖒 𝖙𝖔 𝖙𝖍𝖊 𝖓𝖚𝖒𝖇𝖊𝖗 𝖔𝖋 𝖘𝖙𝖆𝖗𝖘
         </div>
-            <div style= {{backgroundColor: "rgb(189, 189, 189)",  display: "flex"}}>
+            <div style= {{backgroundColor: "rgb(93, 173, 226)",  display: "flex"}}>
                 <div className="left">
                     {gameStatus !== 'active' ? (
                         <PlayAgain onClick={props.startNewGame} gameStatus={gameStatus} game={props.second}/>

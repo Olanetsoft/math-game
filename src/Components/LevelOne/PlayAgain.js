@@ -8,10 +8,10 @@ const PlayAgain = (props) => {
           className="message"
         style={{ color: props.gameStatus === 'lost' ? 'red' : 'green'}}
       >
-          {props.gameStatus === 'lost' ? 'Oops! Game Over' : 'Great! Play Next Level'}
+          {props.gameStatus === 'lost' ? 'Oops! Game Over' : 'Nice! Play Next Level'}
         </div>
         <button onClick={props.onClick}>Play Again</button>
-        <button ><a href="/nextLevel">Next Level</a></button>
+        <button ><a href="/LevelTwo">Next Level</a></button>
         
       </div>
     );
