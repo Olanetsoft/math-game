@@ -54,6 +54,16 @@
 	color: rgb(219, 32, 32);
   margin-top: 5px;
   margin-left: 5px;
+  animation: blinker 1s linear infinite;
+}
+
+
+@keyframes blinker {
+  0%{     color: rgb(219, 32, 32);    }
+  49%{    color: rgb(219, 32, 32);}
+  60%{    color: transparent; }
+  99%{    color:transparent;  }
+  100%{   color: rgb(219, 32, 32);   }
 }
 
 .game-done .message {

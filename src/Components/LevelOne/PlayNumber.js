@@ -1,6 +1,5 @@
 import React from 'react';
-import './App.css';
-
+import '../../App.css';
 
 const PlayNumber = (props) => {
     // Color Theme

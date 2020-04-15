@@ -2,11 +2,11 @@ import React from 'react';
 import {useState, useEffect} from 'react';
 
 
-import utils from './utils';
+import utils from '../../utils';
 import PlayAgain from './PlayAgain';
 import StarsDisplay from './StarsDisplay';
 import PlayNumber from './PlayNumber';
-import './App.css';
+import '../../App.css';
 
 
 const Game = (props) => {
