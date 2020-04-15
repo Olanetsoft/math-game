@@ -21,7 +21,7 @@ const App = () => {
             <Router>
                 <Switch>
                     <Route exact path='/' component={StarMatch} />
-                    <Route path='/LevelTwo' component={GameLevelTwo} />
+                    <Route exact path='/LevelTwo' component={GameLevelTwo} />
                     <Route path='/LevelThree' component={GameLevelThree} />
                     <Route path='/LevelFour' component={GameLevelFour} />
                     <Route path='/LevelFive' component={GameLevelFive} />
