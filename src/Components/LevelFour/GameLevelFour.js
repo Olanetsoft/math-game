@@ -64,6 +64,9 @@ const Game = (props) => {
     return (
         <div className="game">
              
+            <div className="help">
+            🅿🅸🅲🅺 1 🅾🆁 🅼🅾🆁🅴 🅽🆄🅼🅱🅴🆁🆂 🆃🅷🅰🆃 🆂🆄🅼 🆃🅾 🆃🅷🅴 🅽🆄🅼🅱🅴🆁 🅾🅵 🆂🆃🅰🆁🆂
+        </div>
              
        <div className="help">Total Point: 200</div>
             <div style= {{backgroundColor: "rgb(171, 235, 198)",  display: "flex"}}>
