@@ -13,7 +13,7 @@ const Game = (props) => {
     const [stars, setStars] = useState(utils.random(1, 12));
     const [availableNums, setAvailableNums] = useState(utils.range(1, 12));
     const [candidateNums, setCandidateNums] = useState([]);
-    const [secondsLeft, setSecondsLeft] = useState(6);
+    const [secondsLeft, setSecondsLeft] = useState(8);
 
     useEffect(() => {
         if (secondsLeft > 0 && availableNums.length > 0) {
@@ -64,12 +64,10 @@ const Game = (props) => {
     return (
         <div className="game">
              
-             
-          
             <div className="help">
             🅿🅸🅲🅺 1 🅾🆁 🅼🅾🆁🅴 🅽🆄🅼🅱🅴🆁🆂 🆃🅷🅰🆃 🆂🆄🅼 🆃🅾 🆃🅷🅴 🅽🆄🅼🅱🅴🆁 🅾🅵 🆂🆃🅰🆁🆂
         </div>
-        <div className="help">Total Point: 200 </div>
+        <div className="level"> 🅻🅴🆅🅴🅻【5】</div>
             <div style= {{backgroundColor: "rgb(88, 214, 141)",  display: "flex"}}>
                 <div className="left">
                     {gameStatus !== 'active' ? (
@@ -89,7 +87,7 @@ const Game = (props) => {
                     ))}
                 </div>
             </div>
-           <div className="timer">Time Remaining: {secondsLeft} <span>↦↦↦ 🅻🅴🆅🅴🅻【5】</span></div>
+           <div className="timer">Time Remaining: {secondsLeft} </div>
             
         </div>
     );

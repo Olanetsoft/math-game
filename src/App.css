@@ -96,3 +96,9 @@ a:active {
   text-decoration: none;
   color: black;
 }
+
+.level{
+  color: rgb(15, 134, 65);
+  margin: 15px;
+  text-align: center;
+}
