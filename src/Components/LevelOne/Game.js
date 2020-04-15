@@ -65,8 +65,6 @@ const Game = (props) => {
         <div className="game">
            <div className="help">
            🆆🅴🅻🅲🅾🅼🅴
-           </div>
-     <div className="help">
             🅿🅸🅲🅺 1 🅾🆁 🅼🅾🆁🅴 🅽🆄🅼🅱🅴🆁🆂 🆃🅷🅰🆃 🆂🆄🅼 🆃🅾 🆃🅷🅴 🅽🆄🅼🅱🅴🆁 🅾🅵 🆂🆃🅰🆁🆂
         </div>
         <div className="body">
