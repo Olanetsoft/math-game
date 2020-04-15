@@ -68,7 +68,7 @@ const Game = (props) => {
             🅿🅸🅲🅺 1 🅾🆁 🅼🅾🆁🅴 🅽🆄🅼🅱🅴🆁🆂 🆃🅷🅰🆃 🆂🆄🅼 🆃🅾 🆃🅷🅴 🅽🆄🅼🅱🅴🆁 🅾🅵 🆂🆃🅰🆁🆂
         </div>
              
-       <div className="help">Total Point: 200</div>
+       <div className="help">Total Point: 150</div>
             <div style= {{backgroundColor: "rgb(171, 235, 198)",  display: "flex"}}>
                 <div className="left">
                     {gameStatus !== 'active' ? (
