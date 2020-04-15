@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 
 import StarMatch from './StarMatch';
+import GameLevelTwo from './GameLevelTwo';
 
 
 
@@ -12,7 +13,7 @@ const App = () => {
             <Router>
                 <Switch>
                     <Route exact path='/' component={StarMatch} />
-                    {/* <Route path='/shop' component={ShopPage} /> */}
+                    <Route path='/nextLevel' component={GameLevelTwo} />
                 </Switch>
             </Router>
 
