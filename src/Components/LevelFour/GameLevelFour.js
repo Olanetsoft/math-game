@@ -87,7 +87,8 @@ const Game = (props) => {
                     ))}
                 </div>
             </div>
-            <div className="timer">Time Remaining: {secondsLeft}</div>
+            <div className="timer">Time Remaining: {secondsLeft} <span>↦↦↦↦↦ 🅻🅴🆅🅴🅻 【4】</span></div>
+            <div className="help">Total Point: 𝟙Ƽ⊘ </div>
         </div>
     );
 };
