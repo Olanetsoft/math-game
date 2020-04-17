@@ -1,88 +1,106 @@
 .game {
-    max-width: 500px;
-    margin: 0 auto;
-  }
-  
-  .body {
-    display: flex;
-  }
-  
-  .help {
-    color: #666;
-    margin: 15px;
-    text-align: center;
-  }
-  
-  .left {
-    text-align: center;
-    width: 50%;
-    border: thin solid #ddd;
-  }
-  
-  .right {
-    text-align: center;
-    padding: 10px;
-    width: 50%;
-    border: thin solid #ddd;
-  }
-  
-  .star {
-      display: inline-block;
-    margin: 0 15px;
-  }
-  
-  .star:after {
-    content: "\2605";
-    font-size: 45px;
-  }
-  
-  .number {
-    background-color: #eee;
-    border: thick solid #ddd;
-    width: 45px;
-    height: 45px;
-    margin: 10px;
-    font-size: 25px;
-  }
-  
-  .number:focus, .number:active {
-    outline: none;
-    border: thick solid #ddd;
-  }
-  
-  .timer {
-      color: rgb(219, 32, 32);
-    margin-top: 5px;
-    margin-left: 5px;
-  }
-  
-  .game-done .message {
-    font-size: 250%;
-    font-weight: bold;
-    margin: 15px;
-  }
-  
-  button{
-    display: inline-block;
-    margin: 10px;
-  }
-  
-  a:link {
-    text-decoration: none;
-    color: black;
-  }
-  
-  a:visited {
-    text-decoration: none;
-    color: black;
-  }
-  
-  a:hover {
-    text-decoration: none;
-    color: black;
-  }
-  
-  a:active {
-    text-decoration: none;
-    color: black;
-  }
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.body {
+  display: flex;
+}
+
+.help {
+  color: #666;
+  margin: 15px;
+  text-align: center;
+}
+
+.left {
+  text-align: center;
+  width: 50%;
+  border: thin solid #ddd;
+}
+
+.right {
+  text-align: center;
+  padding: 10px;
+  width: 50%;
+  border: thin solid #ddd;
+}
+
+.star {
+	display: inline-block;
+  margin: 0 15px;
+}
+
+.star:after {
+  content: "\2605";
+  font-size: 45px;
+}
+
+
+
+.number {
+  background-color: #eee;
+  border: thick solid #ddd;
+  width: 45px;
+  height: 45px;
+  margin: 10px;
+  font-size: 25px;
+}
+
+.number:focus, .number:active {
+  outline: none;
+  border: thick solid #ddd;
+}
+
+.timer {
+	color: rgb(219, 32, 32);
+  margin-top: 5px;
+  margin-left: 5px;
+  animation: blinker 1s linear infinite;
+}
+
+
+@keyframes blinker {
+  0%{     color: rgb(219, 32, 32);    }
+  49%{    color: rgb(219, 32, 32);}
+  60%{    color: transparent; }
+  99%{    color:transparent;  }
+  100%{   color: rgb(219, 32, 32);   }
+}
+
+.game-done .message {
+  font-size: 250%;
+  font-weight: bold;
+  margin: 15px;
+}
+
+button{
+  display: inline-block;
+  margin: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+a:active {
+  text-decoration: none;
+  color: black;
+}
+
+.level{
+  color: rgb(15, 134, 65);
+  margin: 15px;
+  text-align: center;
+}
