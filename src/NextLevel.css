@@ -35,6 +35,16 @@
   content: "\2605";
   font-size: 45px;
 }
+.circle {
+  background: rgb(10, 112, 112);
+  border-radius: 60%;
+  width: 30px;
+  height: 60px;
+  font-size: 45px;
+	display: inline-block;
+  margin: 2px 15px;
+}
+
 
 
 
