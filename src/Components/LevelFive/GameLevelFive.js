@@ -65,7 +65,7 @@ const Game = (props) => {
         <div className="game">
              
             <div className="help">
-            🅿🅸🅲🅺 1 🅾🆁 🅼🅾🆁🅴 🅽🆄🅼🅱🅴🆁🆂 🆃🅷🅰🆃 🆂🆄🅼 🆃🅾 🆃🅷🅴 🅽🆄🅼🅱🅴🆁 🅾🅵 🆂🆃🅰🆁🆂
+            PICK 1 OR MORE NUMBERS THAT SUM TO THE NUMBERS OF STARS
         </div>
         <div className="level"> 🅻🅴🆅🅴🅻【5】</div>
             <div style= {{backgroundColor: "rgb(88, 214, 141)",  display: "flex"}}>

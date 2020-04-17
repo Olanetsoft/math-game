@@ -13,7 +13,7 @@ const Game = (props) => {
     const [stars, setStars] = useState(utils.random(1, 12));
     const [availableNums, setAvailableNums] = useState(utils.range(1, 12));
     const [candidateNums, setCandidateNums] = useState([]);
-    const [secondsLeft, setSecondsLeft] = useState(8);
+    const [secondsLeft, setSecondsLeft] = useState(6);
 
     useEffect(() => {
         if (secondsLeft > 0 && availableNums.length > 0) {
@@ -65,10 +65,10 @@ const Game = (props) => {
         <div className="game">
              
             <div className="help">
-            🅿🅸🅲🅺 1 🅾🆁 🅼🅾🆁🅴 🅽🆄🅼🅱🅴🆁🆂 🆃🅷🅰🆃 🆂🆄🅼 🆃🅾 🆃🅷🅴 🅽🆄🅼🅱🅴🆁 🅾🅵 🆂🆃🅰🆁🆂
-        </div>
-        <div className="level"> 🅻🅴🆅🅴🅻【5】</div>
-            <div style= {{backgroundColor: "rgb(88, 214, 141)",  display: "flex"}}>
+            PICK 1 OR MORE NUMBERS THAT SUM TO THE NUMBERS OF CIRCLES
+            </div>
+        <div className="level"> 🅻🅴🆅🅴🅻【6】</div>
+            <div style= {{backgroundColor: "rgb(40, 180, 99)",  display: "flex"}}>
                 <div className="left">
                     {gameStatus !== 'active' ? (
                         <PlayAgain onClick={props.startNewGame} gameStatus={gameStatus}/>

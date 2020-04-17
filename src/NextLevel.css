@@ -35,8 +35,9 @@
   content: "\2605";
   font-size: 45px;
 }
+
 .circle {
-  background: rgb(10, 112, 112);
+  background: rgb(0, 0, 0);
   border-radius: 60%;
   width: 30px;
   height: 60px;
