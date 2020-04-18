@@ -9,6 +9,20 @@ import PlayNumber from './PlayNumber';
 import '../../App.css';
 
 
+
+
+import Background from '../../images/svg/Doubs.svg';
+
+var sectionStyle = {
+  backgroundPosition: 'center',
+  backgroundSize: 'cover',
+  backgroundRepeat: 'no-repeat',
+  backgroundImage: `url(${Background})`
+};
+
+
+
+
 const Game = (props) => {
     const [stars, setStars] = useState(utils.random(1, 12));
   const [availableNums, setAvailableNums] = useState(utils.range(1, 12));
@@ -62,7 +76,8 @@ const Game = (props) => {
   };
 
     return (
-        <div className="game">
+      <div style={sectionStyle}>
+  <div className="game" >
 	    🆆🅴🅻🅲🅾🅼🅴
            <div className="help">
            
@@ -89,6 +104,8 @@ const Game = (props) => {
         </div>
         <div className="timer">Time Remaining: {secondsLeft}</div>
       </div>
+      </div>
+      
     );
 };
 

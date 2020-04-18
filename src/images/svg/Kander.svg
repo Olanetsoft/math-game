@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1200px" viewBox="0 0 1600 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Kander</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kander">
+            <g transform="translate(0.000000, -1.000000)" id="Module">
+                <g transform="translate(0.000000, 201.000000)" fill="#FF6242">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(1400.000000, 801.000000)">
+                    <rect id="Shape" fill="#E4E7EB" x="0" y="0" width="200" height="200"></rect>
+                    <polygon id="Shape" fill="#FFDC09" points="0 0 200 200 0 200"></polygon>
+                </g>
+                <g transform="translate(200.000000, 801.000000)">
+                    <path d="M299,26 C340.421356,26 374,59.5786438 374,101 C374,142.421356 340.421356,176 299,176 C257.578644,176 224,142.421356 224,101 C224,59.5786438 257.578644,26 299,26 Z" id="Shape" fill="#FFDC09"></path>
+                    <polygon id="Shape" fill="#FFFFFF" points="0 0 199.376947 0 400 200 0 200"></polygon>
+                    <polygon id="Shape" fill="#00C9F2" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                    <path d="M99,56 L100,56 C124.852814,56 145,76.1471863 145,101 C145,125.852814 124.852814,146 100,146 L99,146 C74.1471863,146 54,125.852814 54,101 C54,76.1471863 74.1471863,56 99,56 Z" id="Shape" fill="#26468B"></path>
+                </g>
+                <g transform="translate(1000.000000, 1.000000)">
+                    <path d="M299,26 C340.421356,26 374,59.5786438 374,101 C374,142.421356 340.421356,176 299,176 C257.578644,176 224,142.421356 224,101 C224,59.5786438 257.578644,26 299,26 Z" id="Shape" fill="#E4E7EB"></path>
+                    <polygon id="Shape" fill="#00C9F2" points="0 0 199.376947 0 400 200 0 200"></polygon>
+                    <polygon id="Shape" fill="#FFFFFF" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                    <path d="M99,56 L100,56 C124.852814,56 145,76.1471863 145,101 C145,125.852814 124.852814,146 100,146 L99,146 C74.1471863,146 54,125.852814 54,101 C54,76.1471863 74.1471863,56 99,56 Z" id="Shape" fill="#26468B"></path>
+                </g>
+                <g transform="translate(600.000000, 801.000000)">
+                    <rect id="Shape" fill="#00C9F2" x="0" y="0" width="200" height="400"></rect>
+                    <rect id="Shape" fill="#3C61AF" x="100" y="100" width="100" height="100.250627"></rect>
+                    <rect id="Shape" fill="#26468B" x="0" y="200" width="100" height="100.250627"></rect>
+                </g>
+                <g transform="translate(1500.000000, 301.000000) rotate(-270.000000) translate(-1500.000000, -301.000000) translate(1400.000000, 201.000000)">
+                    <polygon id="Shape" fill="#3C61AF" points="-2.4158453e-11 -1.15292436e-11 200 -1.15292436e-11 200 200 1.42108547e-12 200"></polygon>
+                    <rect id="Shape" fill="#FF6242" x="100" y="100" width="100" height="100"></rect>
+                </g>
+                <g transform="translate(0.000000, 801.000000)">
+                    <rect id="Shape" fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+                    <polygon id="Shape" fill="#FFDC09" points="100 33 143.06677 48.6750223 165.982119 88.3655721 158.023702 133.5 122.91535 162.959406 77.0846504 162.959406 41.9762979 133.5 34.0178805 88.3655721 56.9332302 48.6750223"></polygon>
+                </g>
+                <g transform="translate(1400.000000, 1001.000000)">
+                    <rect id="Shape" fill="#26468B" x="0" y="0" width="200" height="200"></rect>
+                    <polygon id="Shape" fill="#00C9F2" points="100 33 143.06677 48.6750223 165.982119 88.3655721 158.023702 133.5 122.91535 162.959406 77.0846504 162.959406 41.9762979 133.5 34.0178805 88.3655721 56.9332302 48.6750223"></polygon>
+                </g>
+                <g transform="translate(800.000000, 1.000000)">
+                    <rect id="Shape" fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+                    <polygon id="Shape" fill="#26468B" points="100 33 143.06677 48.6750223 165.982119 88.3655721 158.023702 133.5 122.91535 162.959406 77.0846504 162.959406 41.9762979 133.5 34.0178805 88.3655721 56.9332302 48.6750223"></polygon>
+                </g>
+                <g transform="translate(900.000000, 901.000000) rotate(-90.000000) translate(-900.000000, -901.000000) translate(800.000000, 801.000000)">
+                    <rect id="Shape" fill="#3C61AF" x="0" y="0" width="200" height="200"></rect>
+                    <rect id="Shape" fill="#FF6242" x="0" y="0" width="100" height="200"></rect>
+                </g>
+                <g transform="translate(600.000000, 1.000000)" fill="#FFDC09">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(1000.000000, 801.000000)">
+                    <rect id="Shape" fill="#FFDC09" x="0" y="0" width="200" height="200"></rect>
+                    <polygon id="Shape" fill="#E4E7EB" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                </g>
+                <g transform="translate(400.000000, 401.000000)">
+                    <rect id="Shape" fill="#3C61AF" x="0" y="0" width="200" height="200"></rect>
+                    <rect id="Shape" fill="#FF6242" x="0" y="0" width="101" height="200"></rect>
+                </g>
+                <g transform="translate(400.000000, 1001.000000)" fill="#FFDC09">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(1000.000000, 401.000000)">
+                    <rect id="Shape" fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M50,100 C77.6142375,100 100,122.385763 100,150 C100,177.614237 77.6142375,200 50,200 C22.3857625,200 0,177.614237 0,150 C0,122.385763 22.3857625,100 50,100 Z" id="Shape" fill="#FF6242"></path>
+                    <rect id="Shape" fill="#00C9F2" x="100" y="0" width="100" height="100"></rect>
+                </g>
+                <g transform="translate(800.000000, 601.000000)">
+                    <rect id="Shape" fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M100,55 C124.852814,55 145,75.1471863 145,100 C145,124.852814 124.852814,145 100,145 C75.1471863,145 55,124.852814 55,100 C55,75.1471863 75.1471863,55 100,55 Z" id="Shape" fill="#E4E7EB"></path>
+                </g>
+                <g transform="translate(1000.000000, 601.000000)">
+                    <rect id="Shape" fill="#00C9F2" x="0" y="0" width="200" height="200"></rect>
+                    <rect id="Shape" fill="#FFFFFF" x="30" y="30" width="140" height="140"></rect>
+                    <polygon id="Shape" fill="#26468B" transform="translate(50.000000, 50.000000) scale(-1, -1) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                </g>
+                <g transform="translate(100.000000, 501.000000) rotate(-90.000000) translate(-100.000000, -501.000000) translate(0.000000, 401.000000)">
+                    <rect id="Shape" fill="#00C9F2" x="0" y="0" width="200" height="200"></rect>
+                    <rect id="Shape" fill="#FFFFFF" x="30" y="30" width="140" height="140"></rect>
+                    <polygon id="Shape" fill="#26468B" transform="translate(50.000000, 50.000000) scale(-1, -1) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                </g>
+                <g transform="translate(500.000000, 101.000000) rotate(-270.000000) translate(-500.000000, -101.000000) translate(400.000000, 1.000000)">
+                    <rect id="Shape" fill="#00C9F2" x="0" y="0" width="200" height="200"></rect>
+                    <rect id="Shape" fill="#FFFFFF" x="30" y="30" width="140" height="140"></rect>
+                    <polygon id="Shape" fill="#26468B" transform="translate(50.000000, 50.000000) scale(-1, -1) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                </g>
+                <g transform="translate(1300.000000, 701.000000) rotate(-270.000000) translate(-1300.000000, -701.000000) translate(1200.000000, 601.000000)">
+                    <polygon id="Shape" fill="#3C61AF" points="0 -1.73472348e-16 200 0 200 200 0 200"></polygon>
+                    <polygon id="Shape" fill="#FF6242" transform="translate(100.000000, 100.000000) scale(-1, -1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                    <path d="M102,25 C143.421356,25 177,58.5786438 177,100 C177,141.421356 143.421356,175 102,175 C60.5786438,175 27,141.421356 27,100 C27,58.5786438 60.5786438,25 102,25 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+                <g transform="translate(0.000000, 601.000000)">
+                    <polygon id="Shape" fill="#FFFFFF" points="2.84217094e-12 0 200 0 200 200 2.84217094e-12 200"></polygon>
+                    <polygon id="Shape" fill="#E4E7EB" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                </g>
+                <g transform="translate(200.000000, 401.000000)">
+                    <polygon id="Shape" fill="#26468B" points="0 0 200 200 0 200"></polygon>
+                    <rect id="Shape" fill="#00C9F2" x="100" y="0" width="100" height="100"></rect>
+                </g>
+                <g transform="translate(400.000000, 201.000000)" fill="#26468B">
+                    <polygon id="Shape" points="0 0 200 200 0 200"></polygon>
+                </g>
+                <g transform="translate(200.000000, 601.000000)" fill="#FF6242">
+                    <polygon id="Shape" points="0 0 200 200 0 200"></polygon>
+                </g>
+                <g transform="translate(800.000000, 401.000000)">
+                    <polygon id="Shape" fill="#FFDC09" transform="translate(100.000000, 100.000000) scale(-1, -1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                    <rect id="Shape" fill="#00C9F2" x="0" y="100" width="100" height="100"></rect>
+                    <polygon id="Shape" fill="#E4E7EB" transform="translate(150.000000, 50.000000) scale(-1, -1) translate(-150.000000, -50.000000) " points="100 0 200 100 100 100"></polygon>
+                </g>
+                <g transform="translate(300.000000, 101.000000) rotate(-90.000000) translate(-300.000000, -101.000000) translate(200.000000, 1.000000)">
+                    <polygon id="Shape" fill="#FFDC09" transform="translate(100.000000, 100.000000) scale(-1, -1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                    <rect id="Shape" fill="#E4E7EB" x="0" y="100" width="100" height="100"></rect>
+                    <polygon id="Shape" fill="#E4E7EB" transform="translate(150.000000, 50.000000) scale(-1, -1) translate(-150.000000, -50.000000) " points="100 0 200 100 100 100"></polygon>
+                </g>
+                <g transform="translate(1500.000000, 701.000000) rotate(-90.000000) translate(-1500.000000, -701.000000) translate(1400.000000, 601.000000)">
+                    <polygon id="Shape" fill="#FFDC09" transform="translate(100.000000, 100.000000) scale(-1, -1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                    <rect id="Shape" fill="#00C9F2" x="0" y="100" width="100" height="100"></rect>
+                    <polygon id="Shape" fill="#E4E7EB" transform="translate(150.000000, 50.000000) scale(-1, -1) translate(-150.000000, -50.000000) " points="100 0 200 100 100 100"></polygon>
+                </g>
+                <g transform="translate(600.000000, 401.000000)">
+                    <polygon id="Shape" fill="#E4E7EB" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                    <rect id="Shape" fill="#FFDC09" x="0" y="0" width="100" height="100"></rect>
+                </g>
+                <g transform="translate(1200.000000, 1001.000000)">
+                    <polygon id="Shape" fill="#FFDC09" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                    <rect id="Shape" fill="#26468B" x="0" y="0" width="100" height="100"></rect>
+                </g>
+                <g transform="translate(1200.000000, 801.000000)" fill="#3C61AF">
+                    <polygon id="Shape" transform="translate(100.000000, 100.000000) scale(-1, -1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                </g>
+                <g transform="translate(0.000000, 1.000000)" fill="#3C61AF">
+                    <polygon id="Shape" transform="translate(100.000000, 100.000000) scale(-1, -1) translate(-100.000000, -100.000000) " points="0 0 200 200 0 200"></polygon>
+                </g>
+                <g transform="translate(700.000000, 701.000000) rotate(-180.000000) translate(-700.000000, -701.000000) translate(600.000000, 601.000000)">
+                    <rect id="Shape" fill="#3C61AF" x="0" y="0" width="200" height="200"></rect>
+                    <g id="Shape" transform="translate(0.000000, 64.000000)">
+                        <polygon id="Triangle" fill="#FFFFFF" points="99.5 0.673233746 168 136 31 136"></polygon>
+                        <polygon id="Triangle" fill="#FF6242" points="50 46.4455223 100 136 0 136"></polygon>
+                        <polygon id="Triangle" fill="#FF6242" points="150 46.4455223 200 136 100 136"></polygon>
+                    </g>
+                </g>
+                <g transform="translate(100.000000, 1101.000000) rotate(-270.000000) translate(-100.000000, -1101.000000) translate(0.000000, 1001.000000)">
+                    <rect id="Shape" fill="#26468B" x="0" y="0" width="200" height="200"></rect>
+                    <polygon id="Shape" fill="#00C9F2" points="99.5 65 168 200 31 200"></polygon>
+                    <polygon id="Triangle" fill="#E4E7EB" points="50 110 100 200 0 200"></polygon>
+                    <polygon id="Triangle" fill="#E4E7EB" points="149 110 199 200 99 200"></polygon>
+                </g>
+                <g transform="translate(1500.500000, 101.000000) rotate(-90.000000) translate(-1500.500000, -101.000000) translate(1399.500000, 0.500000)">
+                    <rect id="Shape" fill="#26468B" x="1" y="0" width="200" height="200.004975"></rect>
+                    <polygon id="Shape" fill="#00C9F2" points="100.9983 64.4983 169.4983 200.5017 32.4983 200.5017"></polygon>
+                    <g id="Shape" transform="translate(0.726368, 109.726368)" fill="#E4E7EB">
+                        <polygon id="Triangle" points="50.2736318 0.273631841 100.273632 90.2758819 0.273631841 90.2758819"></polygon>
+                        <polygon id="Triangle" points="150.273632 0.273631841 200.273632 90.2758819 100.273632 90.2758819"></polygon>
+                    </g>
+                </g>
+                <g transform="translate(300.000000, 301.000000) rotate(-180.000000) translate(-300.000000, -301.000000) translate(200.000000, 201.000000)">
+                    <rect id="Shape" fill="#E4E7EB" x="0" y="0" width="200" height="200"></rect>
+                    <polygon id="Shape" fill="#FFDC09" points="99.5 63.3165829 168 200 31 200"></polygon>
+                </g>
+                <g transform="translate(800.000000, 1001.000000)" fill="#FFDC09">
+                    <polygon id="Shape" points="100 0 200 200 0 200"></polygon>
+                </g>
+                <g transform="translate(1200.000000, 401.000000)">
+                    <path d="M100,0 C155.228475,0 200,44.771525 200,100 C200,155.228475 155.228475,200 100,200 C44.771525,200 0,155.228475 0,100 C0,44.771525 44.771525,0 100,0 Z" id="Shape" fill="#E4E7EB"></path>
+                    <path d="M100,50 C127.614237,50 150,72.3857625 150,100 C150,127.614237 127.614237,150 100,150 C72.3857625,150 50,127.614237 50,100 C50,72.3857625 72.3857625,50 100,50 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+                <g transform="translate(600.000000, 201.000000)">
+                    <path d="M100,0 C155.228475,0 200,44.771525 200,100 C200,155.228475 155.228475,200 100,200 C44.771525,200 0,155.228475 0,100 C0,44.771525 44.771525,0 100,0 Z" id="Shape" fill="#FF6242"></path>
+                    <path d="M100,50 C127.614237,50 150,72.3857625 150,100 C150,127.614237 127.614237,150 100,150 C72.3857625,150 50,127.614237 50,100 C50,72.3857625 72.3857625,50 100,50 Z" id="Shape" fill="#3C61AF"></path>
+                </g>
+                <g transform="translate(1000.000000, 1001.000000)" fill="#00C9F2">
+                    <path d="M100,-1.8189894e-12 C155.228475,-1.8189894e-12 200,44.771525 200,100 C200,155.228475 155.228475,200 100,200 C44.771525,200 0,155.228475 0,100 C0,44.771525 44.771525,-1.8189894e-12 100,-1.8189894e-12 Z" id="Shape"></path>
+                </g>
+                <g transform="translate(1000.000000, 201.000000)">
+                    <path d="M100,0 C155.228475,0 200,44.771525 200,100 C200,155.228475 155.228475,200 100,200 C44.771525,200 0,155.228475 0,100 C0,44.771525 44.771525,0 100,0 Z" id="Shape" fill="#FFDC09"></path>
+                    <rect id="Shape" fill="#FFFFFF" x="100" y="100" width="100" height="100"></rect>
+                </g>
+                <g transform="translate(200.000000, 1001.000000)">
+                    <path d="M100,0 C155.228475,0 200,44.771525 200,100 C200,155.228475 155.228475,200 100,200 C44.771525,200 0,155.228475 0,100 C0,44.771525 44.771525,0 100,0 Z" id="Shape" fill="#E4E7EB"></path>
+                    <rect id="Shape" fill="#3C61AF" x="100" y="100" width="100" height="100"></rect>
+                </g>
+                <g transform="translate(800.000000, 201.000000)" fill="#FF6242">
+                    <polygon id="Shape" transform="translate(50.000000, 50.000000) scale(-1, -1) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                    <polygon id="Shape" transform="translate(150.000000, 150.000000) scale(-1, -1) rotate(-180.000000) translate(-150.000000, -150.000000) " points="100 100 200 200 100 200"></polygon>
+                    <polygon id="Shape" transform="translate(50.000000, 150.000000) scale(-1, -1) rotate(-90.000000) translate(-50.000000, -150.000000) " points="0 100 100 200 0 200"></polygon>
+                    <polygon id="Shape" transform="translate(150.000000, 50.000000) scale(-1, -1) rotate(-270.000000) translate(-150.000000, -50.000000) " points="100 0 200 100 100 100"></polygon>
+                </g>
+                <g transform="translate(1400.000000, 401.000000)" fill="#00C9F2">
+                    <polygon id="Shape" transform="translate(50.000000, 50.000000) scale(-1, -1) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                    <polygon id="Shape" transform="translate(150.000000, 150.000000) scale(-1, -1) rotate(-180.000000) translate(-150.000000, -150.000000) " points="100 100 200 200 100 200"></polygon>
+                    <polygon id="Shape" transform="translate(50.000000, 150.000000) scale(-1, -1) rotate(-90.000000) translate(-50.000000, -150.000000) " points="0 100 100 200 0 200"></polygon>
+                    <polygon id="Shape" transform="translate(150.000000, 50.000000) scale(-1, -1) rotate(-270.000000) translate(-150.000000, -50.000000) " points="100 0 200 100 100 100"></polygon>
+                </g>
+                <g transform="translate(400.000000, 601.000000)" fill="#FFDC09">
+                    <polygon id="Shape" transform="translate(50.000000, 50.000000) scale(-1, -1) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                    <polygon id="Shape" transform="translate(50.000000, 50.000000) scale(-1, -1) rotate(-90.000000) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                    <polygon id="Shape" transform="translate(150.000000, 150.000000) scale(-1, -1) rotate(-90.000000) translate(-150.000000, -150.000000) " points="100 100 200 200 100 200"></polygon>
+                    <polygon id="Shape" transform="translate(150.000000, 150.000000) scale(-1, -1) translate(-150.000000, -150.000000) " points="100 100 200 200 100 200"></polygon>
+                </g>
+                <g transform="translate(1200.000000, 201.000000)">
+                    <polygon id="Shape" fill="#FFDC09" transform="translate(50.000000, 50.000000) scale(-1, -1) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                    <polygon id="Shape" fill="#FFDC09" transform="translate(50.000000, 50.000000) scale(-1, -1) rotate(-90.000000) translate(-50.000000, -50.000000) " points="0 0 100 100 0 100"></polygon>
+                    <polygon id="Shape" fill="#00C9F2" transform="translate(150.000000, 150.000000) scale(-1, -1) rotate(-90.000000) translate(-150.000000, -150.000000) " points="100 100 200 200 100 200"></polygon>
+                    <polygon id="Shape" fill="#00C9F2" transform="translate(150.000000, 150.000000) scale(-1, -1) translate(-150.000000, -150.000000) " points="100 100 200 200 100 200"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

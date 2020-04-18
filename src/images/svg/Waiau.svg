@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1200px" viewBox="0 0 1600 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Waiau</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.701963545" y="9.09494702e-13" width="1600" height="1200"></rect>
+    </defs>
+    <g id="Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Waiau">
+            <g transform="translate(-0.701964, -0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Background" fill="#DCDCDB" xlink:href="#path-1"></use>
+                <polygon id="Shape" fill="#EAE8E4" mask="url(#mask-2)" points="1600.70196 1.10755849e-12 1600.70196 1200 1010.63946 1200 356.701964 396.069961 865.951964 9.62624078e-13"></polygon>
+                <circle id="Shape" fill="#BFCBBA" mask="url(#mask-2)" cx="450.701964" cy="414" r="249"></circle>
+                <rect id="Shape" fill="#DC4618" mask="url(#mask-2)" transform="translate(1227.678960, 301.882761) rotate(-30.085651) translate(-1227.678960, -301.882761) " x="933.562944" y="261.805447" width="588.232032" height="80.1546282"></rect>
+                <polygon id="Shape" fill="#DC4618" mask="url(#mask-2)" transform="translate(744.563015, 787.742328) rotate(43.656465) translate(-744.563015, -787.742328) " points="913.115008 777.005917 589.162136 735.763258 576.011035 793.866272 904.537949 839.72141"></polygon>
+                <polygon id="Shape" fill="#EAE8E4" mask="url(#mask-2)" transform="translate(284.251165, 877.571067) rotate(156.828478) translate(-284.251165, -877.571067) " points="429.115733 824.575783 135.632328 892.222142 143.520027 930.566352 432.869931 880.999524"></polygon>
+                <rect id="Shape" fill="#60BEBF" mask="url(#mask-2)" transform="translate(647.542236, 903.552877) rotate(56.096901) translate(-647.542236, -903.552877) " x="566.189038" y="890.947458" width="162.706397" height="25.210838"></rect>
+                <polygon id="Shape" fill="#3A8EAA" mask="url(#mask-2)" transform="translate(760.792137, 647.309926) rotate(54.914350) translate(-760.792137, -647.309926) " points="835.594629 618.569968 686.965032 629.764405 682.787787 676.051284 838.795551 672.993131"></polygon>
+                <polygon id="Shape" fill="#2A3E4C" mask="url(#mask-2)" transform="translate(1035.306066, 208.551840) rotate(-33.292583) translate(-1035.306066, -208.551840) " points="1627.14962 141.563083 430.448541 176.657244 436.183633 256.035392 1640.16359 275.540117"></polygon>
+                <polygon id="Shape" fill="#E5AB17" mask="url(#mask-2)" transform="translate(756.039694, 518.575098) rotate(-29.041580) translate(-756.039694, -518.575098) " points="562.582371 492.147237 949.497006 494.636816 949.497006 545.00296 567.007944 542.886054"></polygon>
+                <rect id="Shape" fill="#EAE8E4" mask="url(#mask-2)" transform="translate(276.484042, 1004.616471) rotate(-40.041580) translate(-276.484042, -1004.616471) " x="86.3260682" y="979.433399" width="380.315947" height="50.3661438"></rect>
+                <polygon id="Shape" fill="#E5AB17" mask="url(#mask-2)" transform="translate(388.779994, 873.714996) rotate(-42.260842) translate(-388.779994, -873.714996) " points="311.26272 851.617946 466.294185 861.50613 466.294185 895.815424 311.26272 885.92724"></polygon>
+                <polygon id="Shape" fill="#28203D" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(1291.860227, 372.844597) rotate(-27.085663) translate(-1291.860227, -372.844597) " points="1099.88899 364.266428 1483.83287 352.996265 1483.83287 381.423279 1099.88899 392.693441"></polygon>
+                <polygon id="Shape" fill="#BFCBBA" mask="url(#mask-2)" transform="translate(1315.706493, 155.206637) rotate(-31.085663) translate(-1315.706493, -155.206637) " points="1125.7951 140.99313 1505.61789 140.99313 1505.61789 169.420143 1125.7951 169.420143"></polygon>
+                <rect id="Shape" fill="#849C9B" mask="url(#mask-2)" transform="translate(1234.602604, 447.753853) rotate(-27.085663) translate(-1234.602604, -447.753853) " x="1044.64995" y="444.161313" width="379.905306" height="7.18507979"></rect>
+                <rect id="Shape" fill="#28203D" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(525.986330, 599.815737) rotate(51.542669) translate(-525.986330, -599.815737) " x="52" y="589.122381" width="947.972659" height="21.3867133"></rect>
+                <polygon id="Shape" fill="#849C9B" mask="url(#mask-2)" transform="translate(396.533266, 553.473203) rotate(54.016160) translate(-396.533266, -553.473203) " points="708.682161 497.343483 86.7985011 535.648417 83.0236905 609.602924 710.042841 582.839408"></polygon>
+                <ellipse id="Shape" fill="#849C9B" mask="url(#mask-2)" transform="translate(992.985169, 722.126961) rotate(-13.488436) translate(-992.985169, -722.126961) " cx="992.985169" cy="722.126961" rx="39.2583884" ry="39.0470098"></ellipse>
+                <ellipse id="Shape" fill="#EAE8E4" mask="url(#mask-2)" transform="translate(171.853098, 684.869758) rotate(-13.488436) translate(-171.853098, -684.869758) " cx="171.853098" cy="684.869758" rx="70.6994438" ry="70.3187774"></ellipse>
+                <ellipse id="Shape" fill="#DC4618" mask="url(#mask-2)" transform="translate(486.631923, 422.923423) rotate(-13.488436) translate(-486.631923, -422.923423) " cx="486.631923" cy="422.923423" rx="30.758488" ry="30.5928754"></ellipse>
+                <ellipse id="Shape" fill="#BFCBBA" mask="url(#mask-2)" transform="translate(319.603098, 722.253343) rotate(-13.488436) translate(-319.603098, -722.253343) " cx="319.603098" cy="722.253343" rx="30.6090679" ry="30.4442598"></ellipse>
+                <polygon id="Shape" fill="#28203D" fill-rule="nonzero" mask="url(#mask-2)" points="508.82924 485.163272 788.636236 291.960788 786.26436 288.5257 506.457364 481.728184"></polygon>
+                <polygon id="Shape" fill="#28203D" fill-rule="nonzero" mask="url(#mask-2)" points="1076.03904 911.575978 1220.75414 1081.24195 1226.07998 1076.69932 1081.36488 907.033352"></polygon>
+                <polygon id="Shape" fill="#28203D" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(239.098950, 159.714229) rotate(-13.488436) translate(-239.098950, -159.714229) " points="187.897226 55.8049478 286.523548 265.400854 290.300673 263.623511 191.674352 54.027604"></polygon>
+                <polygon id="Shape" fill="#28203D" fill-rule="nonzero" mask="url(#mask-2)" points="262.818443 945.803551 78.8733123 1094.53777 81.4979836 1097.7838 265.443115 949.04958"></polygon>
+                <path d="M1206.23953,762.537566 L1206.23953,703.40228 L1210.83662,703.40228 L1210.83662,762.537566 L1269.97191,762.537566 L1269.97191,767.134656 L1210.83662,767.134656 L1210.83662,826.269942 L1206.23953,826.269942 L1206.23953,767.134656 L1147.10424,767.134656 L1147.10424,762.537566 L1206.23953,762.537566 Z" id="Shape" fill="#DC4618" mask="url(#mask-2)" transform="translate(1208.538075, 764.836111) rotate(-41.000000) translate(-1208.538075, -764.836111) "></path>
+                <path d="M171.149285,679.447322 L171.149285,648.995048 L173.5166,648.995048 L173.5166,679.447322 L203.968874,679.447322 L203.968874,681.814636 L173.5166,681.814636 L173.5166,712.266911 L171.149285,712.266911 L171.149285,681.814636 L140.697011,681.814636 L140.697011,679.447322 L171.149285,679.447322 Z" id="Shape" fill="#DC4618" mask="url(#mask-2)" transform="translate(172.332943, 680.630979) rotate(-41.000000) translate(-172.332943, -680.630979) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

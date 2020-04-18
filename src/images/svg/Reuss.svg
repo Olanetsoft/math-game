@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1599px" height="1200px" viewBox="0 0 1599 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Reuss</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="99.7387791" width="200" height="100"></rect>
+        <rect id="path-3" x="0" y="100" width="200" height="100"></rect>
+        <rect id="path-5" x="0" y="100" width="200" height="100"></rect>
+        <rect id="path-7" x="0" y="0" width="200" height="200"></rect>
+        <rect id="path-9" x="0" y="0" width="200" height="200"></rect>
+        <rect id="path-11" x="0" y="0" width="200" height="200"></rect>
+        <rect id="path-13" x="0" y="0" width="200" height="200"></rect>
+        <rect id="path-15" x="0" y="99.7387791" width="200" height="100"></rect>
+    </defs>
+    <g id="Patterns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reuss" transform="translate(-1.000000, 0.000000)">
+            <g id="Module">
+                <g transform="translate(400.000000, 400.000000)">
+                    <rect id="Shape" fill="#8BAFBB" fill-rule="nonzero" x="0" y="0" width="200" height="200"></rect>
+                    <ellipse id="Shape" fill="#5C7985" fill-rule="nonzero" cx="100.044199" cy="98.0175635" rx="82.0441989" ry="81.0175635"></ellipse>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#F5E304" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <ellipse id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" cx="99.9513198" cy="99.6755901" rx="81.9513198" ry="80.936811"></ellipse>
+                </g>
+                <g transform="translate(700.000000, 900.000000) rotate(-270.000000) translate(-700.000000, -900.000000) translate(600.000000, 800.000000)">
+                    <rect id="Shape" fill="#8BAFBB" fill-rule="nonzero" x="0" y="0" width="200" height="200"></rect>
+                    <ellipse id="Shape" fill="#5C7985" fill-rule="nonzero" cx="100.017563" cy="99.9558011" rx="82.0441989" ry="81.0175635"></ellipse>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Shape" fill="#F5E304" fill-rule="nonzero" xlink:href="#path-3"></use>
+                    <ellipse id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-4)" cx="99.936811" cy="100.04868" rx="81.9513198" ry="80.936811"></ellipse>
+                </g>
+                <g transform="translate(1100.000000, 700.000000) rotate(-90.000000) translate(-1100.000000, -700.000000) translate(1000.000000, 600.000000)">
+                    <rect id="Shape" fill="#8BAFBB" fill-rule="nonzero" x="0" y="0" width="200" height="200"></rect>
+                    <ellipse id="Shape" fill="#5C7985" fill-rule="nonzero" cx="100.044199" cy="98.0175635" rx="82.0441989" ry="81.0175635"></ellipse>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Shape" fill="#F5E304" fill-rule="nonzero" xlink:href="#path-5"></use>
+                    <ellipse id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" cx="99.9513198" cy="99.6755901" rx="81.9513198" ry="80.936811"></ellipse>
+                </g>
+                <g transform="translate(500.000000, 700.000000) scale(1, -1) rotate(-180.000000) translate(-500.000000, -700.000000) translate(400.000000, 600.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M199.79558,23 L199.79558,23 L199.79558,144.79558 C199.79558,175.171241 175.171241,199.79558 144.79558,199.79558 L23,199.79558 C23,102.154077 102.154077,23 199.79558,23 Z" id="Shape" fill="#5C7985"></path>
+                    <circle id="Shape" fill="#FF7E6F" cx="166.022099" cy="169.254144" r="15.7458564"></circle>
+                </g>
+                <g transform="translate(500.000000, 900.000000) scale(1, -1) translate(-500.000000, -900.000000) translate(400.000000, 800.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FFFFFF" cx="100.276243" cy="99.1712707" r="57.7348066"></circle>
+                    <polygon id="Shape" fill="#5C7985" points="101.3458 98.7807201 116.022099 98.7807201 116.022099 100.381025 101.3458 100.381025 101.3458 114.917127 99.4947349 114.917127 99.4947349 100.381025 85.0828729 100.381025 85.0828729 98.7807201 99.4947349 98.7807201 99.4947349 83.9779006 101.3458 83.9779006"></polygon>
+                </g>
+                <g transform="translate(700.000000, 1100.000000) scale(1, -1) translate(-700.000000, -1100.000000) translate(600.000000, 1000.000000)" fill="#5C7985" fill-rule="nonzero">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(500.000000, 1100.000000) scale(1, -1) translate(-500.000000, -1100.000000) translate(400.000000, 1000.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M199.447514,0.552486188 L199.447514,0.552486188 C199.447514,110.704306 110.15182,200 1.98951966e-13,200 L0,200 C-1.34897074e-14,89.8481797 89.2956935,0.552486188 199.447514,0.552486188 Z" id="Shape" fill="#FF7E6F"></path>
+                </g>
+                <g transform="translate(300.000000, 1100.000000) scale(1, -1) translate(-300.000000, -1100.000000) translate(200.000000, 1000.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M17,0 L183.298343,0 L183.298343,99.7237569 C183.298343,145.645776 146.071191,182.872928 100.149171,182.872928 C54.227152,182.872928 17,145.645776 17,99.7237569 L17,0 Z" id="Shape" fill="#F5E304"></path>
+                </g>
+                <g transform="translate(300.000000, 700.000000) scale(1, -1) rotate(-180.000000) translate(-300.000000, -700.000000) translate(200.000000, 600.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,0 L200,0 L200,100 C200,155.228475 155.228475,200 100,200 L0,200 C-1.3527075e-14,89.54305 89.54305,2.02906125e-14 200,0 Z" id="Shape" fill="#95C3B4" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(1300.000000, 1100.000000) scale(1, -1) rotate(-180.000000) translate(-1300.000000, -1100.000000) translate(1200.000000, 1000.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,0 L200,0 L200,100 C200,155.228475 155.228475,200 100,200 L0,200 C-1.3527075e-14,89.54305 89.54305,2.02906125e-14 200,0 Z" id="Shape" fill="#95C3B4" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(100.000000, 900.000000) scale(1, -1) translate(-100.000000, -900.000000) translate(0.000000, 800.000000)" fill="#F5E304" fill-rule="nonzero">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(700.000000, 700.000000) scale(1, -1) translate(-700.000000, -700.000000) translate(600.000000, 600.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,-7.10542736e-14 L200,-7.10542736e-14 C200,110.45695 110.45695,200 0,200 L0,200 C-1.3527075e-14,89.54305 89.54305,-5.0763661e-14 200,-7.10542736e-14 Z" id="Shape" fill="#C0E1DD" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(1100.000000, 900.000000) scale(1, -1) translate(-1100.000000, -900.000000) translate(1000.000000, 800.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Shape" fill="#95C3B4" fill-rule="nonzero" xlink:href="#path-7"></use>
+                    <circle id="Shape" fill="#5C7985" fill-rule="nonzero" mask="url(#mask-8)" cx="199.723757" cy="200.276243" r="51.1049724"></circle>
+                    <circle id="Shape" fill="#5C7985" fill-rule="nonzero" mask="url(#mask-8)" cx="-0.276243094" cy="-0.276243094" r="51.1049724"></circle>
+                </g>
+                <g transform="translate(100.000000, 700.000000) scale(1, -1) rotate(-270.000000) translate(-100.000000, -700.000000) translate(0.000000, 600.000000)" fill-rule="nonzero">
+                    <polygon id="Shape" fill="#FFFFFF" transform="translate(100.000000, 100.000000) scale(-1, -1) rotate(-90.000000) translate(-100.000000, -100.000000) " points="4.26315037e-16 0 200 0 200 200 4.26315037e-16 200"></polygon>
+                    <path d="M55,0 L200,0 C200,110.45695 110.45695,200 0,200 L0,200 L0,55 C1.04909091e-14,24.6243388 24.6243388,5.57991845e-15 55,0 Z" id="Shape" fill="#FF7E6F" transform="translate(100.000000, 100.000000) scale(-1, -1) rotate(-90.000000) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(1300.000000, 300.000000) scale(-1, 1) rotate(-270.000000) translate(-1300.000000, -300.000000) translate(1200.000000, 200.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M199.79558,23 L199.79558,23 L199.79558,144.79558 C199.79558,175.171241 175.171241,199.79558 144.79558,199.79558 L23,199.79558 C23,102.154077 102.154077,23 199.79558,23 Z" id="Shape" fill="#5C7985"></path>
+                    <circle id="Shape" fill="#FF7E6F" cx="166.022099" cy="169.254144" r="15.7458564"></circle>
+                </g>
+                <g transform="translate(1100.000000, 500.000000) scale(-1, 1) rotate(-270.000000) translate(-1100.000000, -500.000000) translate(1000.000000, 400.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FFFFFF" cx="100.276243" cy="99.1712707" r="57.7348066"></circle>
+                    <polygon id="Shape" fill="#5C7985" points="101.3458 98.7807201 116.022099 98.7807201 116.022099 100.381025 101.3458 100.381025 101.3458 114.917127 99.4947349 114.917127 99.4947349 100.381025 85.0828729 100.381025 85.0828729 98.7807201 99.4947349 98.7807201 99.4947349 83.9779006 101.3458 83.9779006"></polygon>
+                </g>
+                <g transform="translate(900.000000, 700.000000) scale(-1, 1) rotate(-270.000000) translate(-900.000000, -700.000000) translate(800.000000, 600.000000)" fill="#5C7985" fill-rule="nonzero">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(900.000000, 500.000000) scale(-1, 1) rotate(-270.000000) translate(-900.000000, -500.000000) translate(800.000000, 400.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M199.447514,0.552486188 L199.447514,0.552486188 C199.447514,110.704306 110.15182,200 1.98951966e-13,200 L0,200 C-1.34897074e-14,89.8481797 89.2956935,0.552486188 199.447514,0.552486188 Z" id="Shape" fill="#FF7E6F"></path>
+                </g>
+                <g transform="translate(900.000000, 300.000000) rotate(-270.000000) translate(-900.000000, -300.000000) translate(800.000000, 200.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M17,0 L183.298343,0 L183.298343,99.7237569 C183.298343,145.645776 146.071191,182.872928 100.149171,182.872928 C54.227152,182.872928 17,145.645776 17,99.7237569 L17,0 Z" id="Shape" fill="#F5E304"></path>
+                </g>
+                <g transform="translate(900.000000, 100.000000) scale(-1, 1) rotate(-270.000000) translate(-900.000000, -100.000000) translate(800.000000, 0.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FF7E6F" cx="99.7237569" cy="99.7237569" r="15.7458564"></circle>
+                </g>
+                <g transform="translate(1300.000000, 900.000000) scale(-1, 1) rotate(-270.000000) translate(-1300.000000, -900.000000) translate(1200.000000, 800.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FF7E6F" cx="99.7237569" cy="99.7237569" r="15.7458564"></circle>
+                </g>
+                <g transform="translate(100.000000, 1100.000000) scale(-1, 1) rotate(-270.000000) translate(-100.000000, -1100.000000) translate(0.000000, 1000.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FF7E6F" cx="99.7237569" cy="99.7237569" r="15.7458564"></circle>
+                </g>
+                <g transform="translate(1300.000000, 100.000000) scale(-1, 1) rotate(-270.000000) translate(-1300.000000, -100.000000) translate(1200.000000, 0.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,0 L200,0 L200,100 C200,155.228475 155.228475,200 100,200 L0,200 C-1.3527075e-14,89.54305 89.54305,2.02906125e-14 200,0 Z" id="Shape" fill="#95C3B4" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(1300.000000, 500.000000) scale(-1, 1) rotate(-270.000000) translate(-1300.000000, -500.000000) translate(1200.000000, 400.000000)" fill="#F5E304" fill-rule="nonzero">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(1300.000000, 700.000000) scale(-1, 1) rotate(-270.000000) translate(-1300.000000, -700.000000) translate(1200.000000, 600.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,-7.10542736e-14 L200,-7.10542736e-14 C200,110.45695 110.45695,200 0,200 L0,200 C-1.3527075e-14,89.54305 89.54305,-5.0763661e-14 200,-7.10542736e-14 Z" id="Shape" fill="#C0E1DD" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(500.000000, 100.000000) scale(-1, 1) translate(-500.000000, -100.000000) translate(400.000000, 0.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,-7.10542736e-14 L200,-7.10542736e-14 C200,110.45695 110.45695,200 0,200 L0,200 C-1.3527075e-14,89.54305 89.54305,-5.0763661e-14 200,-7.10542736e-14 Z" id="Shape" fill="#C0E1DD" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(1100.000000, 300.000000) scale(-1, 1) rotate(-270.000000) translate(-1100.000000, -300.000000) translate(1000.000000, 200.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="Shape" fill="#95C3B4" fill-rule="nonzero" xlink:href="#path-9"></use>
+                    <circle id="Shape" fill="#5C7985" fill-rule="nonzero" mask="url(#mask-10)" cx="199.723757" cy="200.276243" r="51.1049724"></circle>
+                    <circle id="Shape" fill="#5C7985" fill-rule="nonzero" mask="url(#mask-10)" cx="-0.276243094" cy="-0.276243094" r="51.1049724"></circle>
+                </g>
+                <g transform="translate(1100.000000, 100.000000) scale(-1, 1) rotate(-180.000000) translate(-1100.000000, -100.000000) translate(1000.000000, 0.000000)" fill-rule="nonzero">
+                    <polygon id="Shape" fill="#FFFFFF" transform="translate(100.000000, 100.000000) scale(-1, -1) rotate(-90.000000) translate(-100.000000, -100.000000) " points="4.26315037e-16 0 200 0 200 200 4.26315037e-16 200"></polygon>
+                    <path d="M55,0 L200,0 C200,110.45695 110.45695,200 0,200 L0,200 L0,55 C1.04909091e-14,24.6243388 24.6243388,5.57991845e-15 55,0 Z" id="Shape" fill="#FF7E6F" transform="translate(100.000000, 100.000000) scale(-1, -1) rotate(-90.000000) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(300.000000, 900.000000) rotate(-90.000000) translate(-300.000000, -900.000000) translate(200.000000, 800.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M199.79558,23 L199.79558,23 L199.79558,144.79558 C199.79558,175.171241 175.171241,199.79558 144.79558,199.79558 L23,199.79558 C23,102.154077 102.154077,23 199.79558,23 Z" id="Shape" fill="#5C7985"></path>
+                    <circle id="Shape" fill="#FF7E6F" cx="166.022099" cy="169.254144" r="15.7458564"></circle>
+                </g>
+                <g transform="translate(400.000000, 200.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FFFFFF" cx="100.276243" cy="99.1712707" r="57.7348066"></circle>
+                    <polygon id="Shape" fill="#5C7985" points="101.3458 98.7807201 116.022099 98.7807201 116.022099 100.381025 101.3458 100.381025 101.3458 114.917127 99.4947349 114.917127 99.4947349 100.381025 85.0828729 100.381025 85.0828729 98.7807201 99.4947349 98.7807201 99.4947349 83.9779006 101.3458 83.9779006"></polygon>
+                </g>
+                <g transform="translate(1000.000000, 1000.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FFFFFF" cx="100.276243" cy="99.1712707" r="57.7348066"></circle>
+                    <polygon id="Shape" fill="#5C7985" points="101.3458 98.7807201 116.022099 98.7807201 116.022099 100.381025 101.3458 100.381025 101.3458 114.917127 99.4947349 114.917127 99.4947349 100.381025 85.0828729 100.381025 85.0828729 98.7807201 99.4947349 98.7807201 99.4947349 83.9779006 101.3458 83.9779006"></polygon>
+                </g>
+                <g transform="translate(600.000000, 0.000000)" fill="#5C7985" fill-rule="nonzero">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(900.000000, 1100.000000) rotate(-270.000000) translate(-900.000000, -1100.000000) translate(800.000000, 1000.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M199.447514,0.552486188 L199.447514,0.552486188 C199.447514,110.704306 110.15182,200 1.98951966e-13,200 L0,200 C-1.34897074e-14,89.8481797 89.2956935,0.552486188 199.447514,0.552486188 Z" id="Shape" fill="#FF7E6F"></path>
+                </g>
+                <g transform="translate(200.000000, 0.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M17,0 L183.298343,0 L183.298343,99.7237569 C183.298343,145.645776 146.071191,182.872928 100.149171,182.872928 C54.227152,182.872928 17,145.645776 17,99.7237569 L17,0 Z" id="Shape" fill="#F5E304"></path>
+                </g>
+                <g fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FF7E6F" cx="99.7237569" cy="99.7237569" r="15.7458564"></circle>
+                </g>
+                <g transform="translate(600.000000, 200.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#8BAFBB" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#F5E304" cx="99.7237569" cy="99.7237569" r="15.7458564"></circle>
+                </g>
+                <g transform="translate(100.000000, 500.000000) rotate(-270.000000) translate(-100.000000, -500.000000) translate(0.000000, 400.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,0 L200,0 L200,100 C200,155.228475 155.228475,200 100,200 L0,200 C-1.3527075e-14,89.54305 89.54305,2.02906125e-14 200,0 Z" id="Shape" fill="#95C3B4" transform="translate(100.000000, 100.000000) scale(1, -1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(200.000000, 200.000000)" fill="#F5E304" fill-rule="nonzero">
+                    <rect id="Shape" x="2.13162821e-13" y="8.52651283e-14" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(1400.000000, 200.000000)" fill="#F5E304" fill-rule="nonzero">
+                    <rect id="Shape" x="2.13162821e-13" y="8.52651283e-14" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(600.000000, 400.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,-7.10542736e-14 L200,-7.10542736e-14 C200,110.45695 110.45695,200 0,200 L0,200 C-1.3527075e-14,89.54305 89.54305,-5.0763661e-14 200,-7.10542736e-14 Z" id="Shape" fill="#C0E1DD" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(200.000000, 400.000000)">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <use id="Shape" fill="#95C3B4" fill-rule="nonzero" xlink:href="#path-11"></use>
+                    <circle id="Shape" fill="#5C7985" fill-rule="nonzero" mask="url(#mask-12)" cx="199.723757" cy="200.276243" r="51.1049724"></circle>
+                    <circle id="Shape" fill="#5C7985" fill-rule="nonzero" mask="url(#mask-12)" cx="-0.276243094" cy="-0.276243094" r="51.1049724"></circle>
+                </g>
+                <g transform="translate(800.000000, 800.000000)">
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <use id="Shape" fill="#FF7E6F" fill-rule="nonzero" xlink:href="#path-13"></use>
+                    <circle id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-14)" cx="199.723757" cy="200.276243" r="51.1049724"></circle>
+                    <circle id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-14)" cx="-0.276243094" cy="-0.276243094" r="51.1049724"></circle>
+                </g>
+                <g transform="translate(0.000000, 200.000000)" fill-rule="nonzero">
+                    <polygon id="Shape" fill="#FFFFFF" transform="translate(100.000000, 100.000000) scale(-1, -1) rotate(-90.000000) translate(-100.000000, -100.000000) " points="4.26315037e-16 0 200 0 200 200 4.26315037e-16 200"></polygon>
+                    <path d="M55,0 L200,0 C200,110.45695 110.45695,200 0,200 L0,200 L0,55 C1.04909091e-14,24.6243388 24.6243388,5.57991845e-15 55,0 Z" id="Shape" fill="#FF7E6F" transform="translate(100.000000, 100.000000) scale(-1, -1) rotate(-90.000000) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(1400.000000, 800.000000)">
+                    <rect id="Shape" fill="#8BAFBB" fill-rule="nonzero" x="0" y="0" width="200" height="200"></rect>
+                    <ellipse id="Shape" fill="#5C7985" fill-rule="nonzero" cx="100.044199" cy="98.0175635" rx="82.0441989" ry="81.0175635"></ellipse>
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <use id="Shape" fill="#F5E304" fill-rule="nonzero" xlink:href="#path-15"></use>
+                    <ellipse id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-16)" cx="99.9513198" cy="99.6755901" rx="81.9513198" ry="80.936811"></ellipse>
+                </g>
+                <g transform="translate(1500.000000, 500.000000) scale(1, -1) translate(-1500.000000, -500.000000) translate(1400.000000, 400.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#C0E1DD" x="0" y="0" width="200" height="200"></rect>
+                    <circle id="Shape" fill="#FFFFFF" cx="100.276243" cy="99.1712707" r="57.7348066"></circle>
+                    <polygon id="Shape" fill="#5C7985" points="101.3458 98.7807201 116.022099 98.7807201 116.022099 100.381025 101.3458 100.381025 101.3458 114.917127 99.4947349 114.917127 99.4947349 100.381025 85.0828729 100.381025 85.0828729 98.7807201 99.4947349 98.7807201 99.4947349 83.9779006 101.3458 83.9779006"></polygon>
+                </g>
+                <g transform="translate(1500.000000, 100.000000) scale(-1, 1) translate(-1500.000000, -100.000000) translate(1400.000000, 0.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,-7.10542736e-14 L200,-7.10542736e-14 C200,110.45695 110.45695,200 0,200 L0,200 C-1.3527075e-14,89.54305 89.54305,-5.0763661e-14 200,-7.10542736e-14 Z" id="Shape" fill="#C0E1DD" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) "></path>
+                </g>
+                <g transform="translate(1500.000000, 1100.000000) scale(1, -1) translate(-1500.000000, -1100.000000) translate(1400.000000, 1000.000000)" fill="#5C7985" fill-rule="nonzero">
+                    <rect id="Shape" x="0" y="0" width="200" height="200"></rect>
+                </g>
+                <g transform="translate(1500.000000, 700.000000) scale(1, -1) translate(-1500.000000, -700.000000) translate(1400.000000, 600.000000)" fill-rule="nonzero">
+                    <rect id="Shape" fill="#A3CEC1" x="0" y="0" width="200" height="200"></rect>
+                    <path d="M200,-7.10542736e-14 L200,-7.10542736e-14 C200,110.45695 110.45695,200 0,200 L0,200 C-1.3527075e-14,89.54305 89.54305,-5.0763661e-14 200,-7.10542736e-14 Z" id="Shape" fill="#C0E1DD" transform="translate(100.000000, 100.000000) scale(-1, 1) translate(-100.000000, -100.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
