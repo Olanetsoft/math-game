@@ -11,14 +11,14 @@ import '../../App.css';
 
 
 
-import Background from '../../images/svg/Doubs.svg';
+// import Background from '../../images/svg/Doubs.svg';
 
-var sectionStyle = {
-  backgroundPosition: 'center',
-  backgroundSize: 'cover',
-  backgroundRepeat: 'no-repeat',
-  backgroundImage: `url(${Background})`
-};
+// var sectionStyle = {
+//   backgroundPosition: 'center',
+//   backgroundSize: 'cover',
+//   backgroundRepeat: 'no-repeat',
+//   backgroundImage: `url(${Background})`
+// };
 
 
 
@@ -76,7 +76,7 @@ const Game = (props) => {
   };
 
     return (
-      <div style={sectionStyle}>
+      // <div style={sectionStyle}>
   <div className="game" >
 	    🆆🅴🅻🅲🅾🅼🅴
            <div className="help">
@@ -104,7 +104,7 @@ const Game = (props) => {
         </div>
         <div className="timer">Time Remaining: {secondsLeft}</div>
       </div>
-      </div>
+      // </div>
       
     );
 };
