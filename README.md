@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/332a3a9d-3d7f-49bc-9549-e13acd96ddf9/deploy-status)](https://app.netlify.com/sites/math-puzzle/deploys)
 
+Link to site https://math-puzzle.netlify.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
